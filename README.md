@@ -11,6 +11,8 @@ Diese Webapp ist für zwei iPhones gedacht:
 
 Die App läuft direkt im Browser und muss nicht installiert werden.
 
+https://tbr-brd.github.io/morse-light-webapp/
+
 ## Funktionen
 
 - Texteingabe und automatische Umwandlung in Morse
