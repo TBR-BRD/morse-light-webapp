@@ -9,9 +9,13 @@ Diese Webapp ist für zwei iPhones gedacht:
 - **Sender-iPhone**: sendet Morsecode als Lichtpulse
 - **Empfänger-iPhone**: erkennt die Lichtpulse mit der Kamera und dekodiert sie zu Text
 
+![Aufbau der Morse-Webapp](setup-aufbau.png)
+
 Die App läuft direkt im Browser und muss nicht installiert werden.
 
 https://tbr-brd.github.io/morse-light-webapp/
+
+![QR-Code](morse-light-webapp-qr.png)
 
 ## Funktionen
 
