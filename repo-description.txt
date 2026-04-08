@@ -1,0 +1,1 @@
+Installationsfreie Webapp für iPhone-Morse über Licht: senden per Bildschirm/optional LED, empfangen per Kamera, live dekodieren.
