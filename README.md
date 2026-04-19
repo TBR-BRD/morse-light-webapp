@@ -2,6 +2,12 @@
 
 Installationsfreie Webapp für iPhone-Morse über Licht: senden per Bildschirm und optional per LED, empfangen per Kamera und live dekodieren.
 
+<br>
+<a href="https://www.buymeacoffee.com/thoralf.brandt" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+<br>
+
 ## Überblick
 
 Diese Webapp ist für zwei iPhones gedacht:
