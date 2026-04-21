@@ -43,63 +43,22 @@ Die Taschenlampen-/LED-Steuerung im mobilen Browser ist auf iPhones nicht auf je
 - `LICENSE` – MIT-Lizenz
 - `repo-description.txt` – kurze Beschreibung für GitHub
 
-## GitHub Pages Schritt für Schritt
-
-### 1. Repository erstellen
-
-1. Auf GitHub anmelden
-2. Auf **New repository** klicken
-3. Als Namen zum Beispiel `morse-light-webapp` vergeben
-4. Repository auf **Public** setzen
-5. Repository erstellen
-
-### 2. Dateien hochladen
-
-1. Im neuen Repository auf **Add file** → **Upload files**
-2. Diese Dateien hochladen:
-   - `index.html`
-   - `README.md`
-   - `LICENSE`
-   - `repo-description.txt`
-3. Commit speichern
-
-### 3. GitHub Pages aktivieren
-
-1. Im Repository auf **Settings**
-2. In der linken Navigation auf **Pages**
-3. Unter **Build and deployment**
-   - **Source**: `Deploy from a branch`
-   - **Branch**: `main`
-   - **Folder**: `/(root)`
-4. Speichern
-
-Nach kurzer Zeit ist die Seite unter einer URL wie dieser erreichbar:
-
-`https://DEIN-NAME.github.io/morse-light-webapp/`
-
 ## Nutzung mit zwei iPhones
 
-### Sender-iPhone
+## Version mit Auto-Start
 
-1. Seite öffnen
-2. Text eingeben
-3. Optional **LED vorbereiten** drücken
-4. **Senden starten**
+- großer Startknopf für den Empfänger
+- Kamera startet automatisch
+- automatische Kalibrierung direkt nach dem Start
+- Messfenster in der Bildmitte
+- Fokus auf dekodierten Text
 
-### Empfänger-iPhone
+## Testablauf
 
-1. Seite öffnen
-2. **Empfang starten**
-3. Kamera auf den Sender richten
-4. **Auto-Kalibrierung** drücken
-5. Morsecode empfangen
-
-## Empfohlene Testeinstellungen
-
-- Erst mit kurzen Wörtern testen, zum Beispiel `SOS` oder `HALLO`
-- Tempo auf **180–300 ms pro Punkt**
-- Eher dunkle Umgebung
-- Konstanter Abstand zwischen Sender und Empfänger
+1. Empfänger: **Empfang automatisch starten**
+2. Warten bis **Bereit zum Empfangen**
+3. Sender: Nachricht senden
+4. Licht im grünen Messfenster halten
 
 ## Fehlerbehebung
 
