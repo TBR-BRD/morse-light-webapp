@@ -19,7 +19,7 @@ Diese Webapp ist für zwei iPhones gedacht:
 
 ![Aufbau der Morse-Webapp](setup-aufbau.png)
 
-Die App läuft direkt im Browser und muss nicht installiert werden.
+Die App läuft direkt im Browser und muss nicht installiert werden. Nachfolgenden Link auf beiden iPhones öffnen oder QR Code scannen.
 
 https://tbr-brd.github.io/morse-light-webapp/
 
