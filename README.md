@@ -2,6 +2,10 @@
 
 Installationsfreie Webapp für iPhone-Morse über Licht: senden per Bildschirm und optional per LED, empfangen per Kamera und live dekodieren.
 
+![ohne Hand](01-ohne-Hand.png)
+
+![mit Hand](02-mit-Hand.png)
+
 Mit diesem Setup kann gezeigt werden, was die Unterbrechung des Lichtstrahls in einer Glasfaser für Auswirkungen auf die Datenübertragung hat.
 
 <br>
