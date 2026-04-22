@@ -2,6 +2,8 @@
 
 Installationsfreie Webapp für iPhone-Morse über Licht: senden per Bildschirm und optional per LED, empfangen per Kamera und live dekodieren.
 
+Mit diesem Setup kann gezeigt werden, was die Unterbrechung des Lichtstrahls in einer Glasfaser für Auswirkungen auf die Datenübertragung hat.
+
 <br>
 <a href="https://www.buymeacoffee.com/thoralf.brandt" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
