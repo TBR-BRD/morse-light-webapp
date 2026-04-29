@@ -8,6 +8,29 @@ Installationsfreie Webapp für iPhone-Morse über Licht: senden per Bildschirm u
 
 Mit diesem Setup kann gezeigt werden, was die Unterbrechung des Lichtstrahls in einer Glasfaser für Auswirkungen auf die Datenübertragung hat.
 
+**Project Summary: Morse Light Webapp for iPhone**
+
+This project is a browser-based web application that demonstrates how Morse code can be transmitted and received using light between two iPhones, without installing a native app.
+
+One iPhone acts as the **sender**. It converts user-entered text into Morse code and transmits it as light pulses, using the screen as a reliable fallback and, where supported, the rear LED flash.
+
+The second iPhone acts as the **receiver**. It uses the rear camera to detect incoming light pulses, analyzes brightness changes in real time, and decodes them back into text inside the web app.
+
+The project includes several usability and reliability improvements:
+
+* text-to-Morse conversion
+* adjustable transmission speed
+* optional rear/front camera selection
+* automatic receiver calibration
+* simplified receiver interface
+* centered detection window for more robust signal capture
+* an auto-start receiver mode with one main start button
+* GitHub Pages deployment support
+
+The goal of the project is to create an easy-to-understand, installation-free demonstration of **optical communication**, showing how information can be transmitted with light in a simple and visual way.
+
+A second visual concept was also created to illustrate how light transmission could be guided through **fiber optics**, and how the signal can be interrupted if an object blocks the optical path.
+
 <br>
 <a href="https://www.buymeacoffee.com/thoralf.brandt" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
