@@ -1,5 +1,7 @@
 # Morse Light Webapp
 
+🇩🇪 Deutsch · [🇬🇧 English](README_EN.md)
+
 Installationsfreie Webapp für iPhone-Morse über Licht: senden per Bildschirm und optional per LED, empfangen per Kamera und live dekodieren.
 
 ![ohne Hand](01-ohne-Hand.png)
